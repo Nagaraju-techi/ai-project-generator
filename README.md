@@ -152,12 +152,6 @@ VITE_FIREBASE_API_KEY=your_key
 
 ---
 
-## 📸 Screenshots
-
-_Add your project screenshots here_
-
----
-
 ## 👨‍💻 Author
 
 Developed by Gande Nagaraju
