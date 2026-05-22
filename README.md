@@ -1,30 +1,3 @@
-<div align="center">
-
-# 🚀 AI Project Generator
-
-### AI-Powered Software Project Idea Generator using React, Firebase & Gemini AI
-
-<p align="center">
-  <a href="https://ai-project-generator-a2d88.web.app">
-    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge">
-  </a>
-  
-  <a href="https://github.com/Nagaraju-techi/ai-project-generator">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css">
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase">
-  <img src="https://img.shields.io/badge/Gemini-AI-blue?style=flat-square">
-</p>
-
-</div>
-
----
 
 # 📌 Overview
 
